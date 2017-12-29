@@ -1,12 +1,6 @@
 ﻿--SURUCHI SINGH
 --SUID : 755238759
 --Project 2 : University Database 
-/*
-   I have used the instructor's solution for the database design because my design did not work correctly for 
-   Prerequistes, Major and Minor Courses, Benefits offered for the employee and the student status'.
-   These were the crucial parts of the database and my design could not effectively handle them. Any changes that 
-   I had made were made with the help of the instrutor's solution and ended up being similar to it.
-*/
 --CREATE SCHEMA Project2;
 --************************************************
 --CREATING TABLES
